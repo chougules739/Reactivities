@@ -1,0 +1,12 @@
+C:\ReactApp\reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\ReactApp\reactivities\Domain\bin\Debug\net5.0\Domain.dll
+C:\ReactApp\reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\ReactApp\reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.dll
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\ReactApp\reactivities\Domain\obj\Debug\net5.0\Domain.pdb
