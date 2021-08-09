@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ReactApp\\reactivities\\api\\API.csproj": {}
+    "C:\\ReactApp\\reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\ReactApp\\reactivities\\api\\API.csproj": {
+    "C:\\ReactApp\\reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ReactApp\\reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\ReactApp\\reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\ReactApp\\reactivities\\api\\API.csproj",
+        "projectPath": "C:\\ReactApp\\reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sachougule\\.nuget\\packages\\",
-        "outputPath": "C:\\ReactApp\\reactivities\\api\\obj\\",
+        "outputPath": "C:\\ReactApp\\reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sachougule\\AppData\\Roaming\\NuGet\\NuGet.Config",
