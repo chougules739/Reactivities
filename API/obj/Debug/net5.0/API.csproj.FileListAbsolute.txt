@@ -17,7 +17,6 @@ C:\ReactApp\reactivities\API\bin\Debug\net5.0\Persistence.dll
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\Application.pdb
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\Domain.pdb
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\Persistence.pdb
-C:\ReactApp\reactivities\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
 C:\ReactApp\reactivities\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\ReactApp\reactivities\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
 C:\ReactApp\reactivities\API\obj\Debug\net5.0\API.AssemblyInfo.cs
@@ -65,3 +64,4 @@ C:\ReactApp\reactivities\API\bin\Debug\net5.0\MediatR.dll
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\AutoMapper.dll
 C:\ReactApp\reactivities\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ReactApp\reactivities\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
